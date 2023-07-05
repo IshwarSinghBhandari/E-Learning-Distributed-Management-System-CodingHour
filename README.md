@@ -72,7 +72,7 @@ Here I have included some screenshot of the project:
 ![Screenshot (570)](https://github.com/narendrajethi220/E-Learning-Distributed-Management-Systme-CodingHour-/assets/55850738/30bb2fcd-1a8d-4d9b-9881-601cdbbcef44)
 ![Screenshot (549)](https://github.com/narendrajethi220/E-Learning-Distributed-Management-Systme-CodingHour-/assets/55850738/f958b041-55e0-4b35-b620-85d07cd6999d)
 ![Screenshot (550)](https://github.com/narendrajethi220/E-Learning-Distributed-Management-Systme-CodingHour-/assets/55850738/f4c17ea6-adf5-4f44-a54b-564873df4006)
-![Screenshot (568)](https://github.com/narendrajethi220/E-Learning-Distributed-Management-Systme-CodingHour-/assets/55850738/31731bd9-756f-466d-8208-fb605fa0966e)
+
 ![Screenshot (552)](https://github.com/narendrajethi220/E-Learning-Distributed-Management-Systme-CodingHour-/assets/55850738/ca39e1fd-c4ed-4546-bc44-25a0e4e6e536)
 ![Screenshot (557)](https://github.com/narendrajethi220/E-Learning-Distributed-Management-Systme-CodingHour-/assets/55850738/8c9d1f6c-f46e-47e4-86be-6555c6fe224e)
 ![Screenshot (553)](https://github.com/narendrajethi220/E-Learning-Distributed-Management-Systme-CodingHour-/assets/55850738/256ca7db-ac1b-43d6-8857-85acd6764129)
