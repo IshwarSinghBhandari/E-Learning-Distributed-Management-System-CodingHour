@@ -61,7 +61,7 @@ Contributions to the CodingHour project are welcome! If you'd like to contribute
 
 ## Contact
 
-For any questions or inquiries, please contact the CodingHour team at narendrajethi220@gmail.com
+For any questions or inquiries, please contact the CodingHour team at ishwarsinghbhandari46@gmail.com
 Feel free to customize this README file according to your project's specific requirements and additional details.
 Here I have included some screenshot of the project:
 
