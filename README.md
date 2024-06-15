@@ -58,9 +58,6 @@ Contributions to the CodingHour project are welcome! If you'd like to contribute
 3. Implement your changes.
 4. Submit a pull request, explaining the purpose and details of your contribution.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
